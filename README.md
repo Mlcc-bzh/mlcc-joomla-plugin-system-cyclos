@@ -2,6 +2,8 @@
 
 cms : Joomla. 3.9.x
 
+type : plugin | system
+
 intègre l'API cyclos à travers un plugin système
 
 [Installation]
